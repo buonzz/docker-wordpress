@@ -1,5 +1,11 @@
 # docker-wordpress
-Workspace for WordPress
+Workspace for WordPress.
+
+This will automatically setup PHP and MySQL in your local machine, just execute
+
+```
+docker-compose up -d
+```
 
 ### Test Data
 
