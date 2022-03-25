@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/paham"]
+	path = wp-content/themes/paham
+	url = git@github.com:buonzz/paham.git
